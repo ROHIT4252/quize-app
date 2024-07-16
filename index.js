@@ -20,11 +20,11 @@ const questions = [
 
     },
     {
-        question : "Which is largest animal in the world",
+        question : "diksha kon hai",
         answers: [
          {text:"shark",correct:false} , 
-         {text:"blue whele",correct:true}  ,
-           {text:"elephant",correct:false} , 
+         {text:"pagal",correct:true}  ,
+           {text:"inteligrnt",correct:false} , 
            {text:"Girafe",correct:false} , 
         ]
 
